@@ -1,0 +1,17 @@
+{
+  "name": "commanderline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luo",
+  "license": "ISC",
+  "bin": {
+    "mycommander": "bin/mycommander.js"
+  },
+  "dependencies": {
+    "commander": "^9.4.0"
+  }
+}
